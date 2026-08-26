@@ -7,3 +7,5 @@ en el programa 2 (bisiesto) se solicita al usuario ingresar un year y poder deci
 en el programa 3 (calificaciones) se solicita ingresar una calificacion numerica y cambiarla a su variable en letras(A,B,C,D,F)
 
 en el programa 4 (3numeros) se solicita al usuario ingresar 3 numeros y en pantalla se arroja cual es el mayor
+
+en el programa 5 (tarifa) se solicita ingresar la edad y en base a esta se muestra el costo de entrada a un parque
