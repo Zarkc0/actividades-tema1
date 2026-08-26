@@ -4,4 +4,6 @@ en el programa 1 (triangulos) se solicita poder indicar el tipo de triangulo seg
 
 en el programa 2 (bisiesto) se solicita al usuario ingresar un year y poder decir si es bisiesto o no
 
+en el programa 3 (calificaciones) se solicita ingresar una calificacion numerica y cambiarla a su variable en letras(A,B,C,D,F)
+
 en el programa 4 (3numeros) se solicita al usuario ingresar 3 numeros y en pantalla se arroja cual es el mayor
